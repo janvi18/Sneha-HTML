@@ -1,0 +1,25 @@
+HTML --> Hyper Text Markup Language
+Uses --> create web pages and web applications
+
+Syntax : 
+
+<html>
+    <head>
+        <title>
+            // name of the topic
+        </title>
+    </head>
+    <body>
+        // body part
+    </body>
+</html>
+
+
+We have 6 types of heading in html.
+
+<h1> </h1>
+<h2> </h2>
+<h3> </h3>
+<h4> </h4>
+<h5> </h5>
+<h6> </h6>
