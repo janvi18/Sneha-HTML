@@ -14,6 +14,8 @@ Syntax :
     </body>
 </html>
 
+Extension of html file is .html or .htm
+
 
 We have 6 types of heading in html.
 
@@ -23,3 +25,31 @@ We have 6 types of heading in html.
 <h4> </h4>
 <h5> </h5>
 <h6> </h6>
+
+
+Tags :-
+<p> --> paragraph
+<b> --> to bold the Text
+<i> --> to italic the Text
+<u> --> to underline the Text
+<mark> --> to highlight the Text
+<hr> --> horizontal row
+<br> --> break the row [ to the next line ]
+
+<table> --> table tag
+
+Syntax:-
+<table>
+    <tr>
+        <td>
+            // table body
+        </td>
+    </tr>
+</table>
+
+
+
+
+
+
+
