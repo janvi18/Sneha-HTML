@@ -35,6 +35,9 @@ Tags :-
 <mark> --> to highlight the Text
 <hr> --> horizontal row
 <br> --> break the row [ to the next line ]
+<ol> --> ordered list
+<li> --> list items
+<ul> --> unordered list
 
 <table> --> table tag
 
@@ -46,6 +49,93 @@ Syntax:-
         </td>
     </tr>
 </table>
+
+
+<ol> --> order list
+
+
+Style Types:
+type="1" --> The list items will be numbered with numbers (default)
+type="A" --> The list items will be numbered with uppercase letters
+type="a" --> The list items will be numbered with lowercase letters
+type="I" --> The list items will be numbered with uppercase roman numbers
+type="i" --> The list items will be numbered with lowercase roman numbers
+
+Syntax:-
+<ol style="list-style-type:lower-roman;">
+<li> items </li>
+</ol>
+
+<ul> --> unordered list
+
+Style Types:
+disc --> Sets the list item marker to a bullet (default)
+circle --> Sets the list item marker to a circle
+square --> Sets the list item marker to a square
+none --> The list items will not be marked
+
+
+Syntax:-
+<ul style="list-style-type: circle;">
+<li> items </li>
+</ul>
+
+
+HTML Links :
+
+--> HTML links are hyperlinks.
+--> You can click on a link and it jumps to another document.
+--> When you move the mouse over a link, the mouse arrow will turn into a little hand.
+
+
+==> Block-level and Inline HTML elements
+
+==> Block-level element:
+--> These are the elements, which structure main part of web page, by dividing a page into coherent blocks.
+--> A block-level element always start with new line and takes the full width of web page, from left to right.
+--> These elements can contain block-level as well as inline elements.
+
+==> Inline elements:
+--> Inline elements are those elements, which differentiate the part of a given text and provide it a particular 
+    function.
+--> These elements does not start with new line and take width as per requirement.
+--> The Inline elements are mostly used with other elements.
+
+
+
+HTML Formatting Elements:
+
+<strong> - Important text [ same as bold tag ]
+<em> - Emphasized text [ same as italic tag ]
+<small> - Smaller text
+<big> - Bigger text 
+<del> - Deleted text
+<ins> - Inserted text
+<sub> - Subscript text
+<sup> - Superscript text
+
+
+HTML Definition List
+
+1. <dl> tag defines the description list.
+2. <dt> tag defines data term.
+3. <dd> tag defines data definition (description).
+
+Syntax:-
+<dl>
+    <dt>
+        <dd>
+        
+        </dd>
+    </dt>
+</dl>
+
+
+
+
+
+
+
 
 
 
