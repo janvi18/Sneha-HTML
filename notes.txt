@@ -131,6 +131,20 @@ Syntax:-
 </dl>
 
 
+Image Tag:-
+
+--> used to display image on the web page.
+--> HTML img tag is an empty tag that contains attributes only, closing tags are not used in HTML image element.
+
+Syntax:- 
+<img src="">
+
+
+Form Tag:-
+
+--> An HTML form is a section of a document which contains controls such as text fields, password fields, checkboxes, radio buttons, 
+    submit button, menus etc.
+--> HTML forms are required if you want to collect some data from of the site visitor.
 
 
 
