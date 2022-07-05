@@ -1,0 +1,12 @@
+HTML style using CSS:-
+
+CSS -- Cascading Stylesheet
+
+--> CSS is used to apply the style in the web page which is made up of HTML elements. It describes the look of the webpage.
+--> CSS provides various style properties such as background color, padding, margin, border-color, and many more, to style a webpage.
+
+Three ways to apply CSS:-
+
+1. Inline CSS: Define CSS properties using style attribute in the HTML elements.
+2. Internal or Embedded CSS: Define CSS using <style> tag in <head> section.
+3. External CSS: Define all CSS property in a separate .css file, and then include the file with HTML file using tag in section.
